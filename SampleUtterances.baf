@@ -1,0 +1,13 @@
+RechargeIntent	can you recharge {my|mobile} phone with {fifty|amount}
+RechargeIntent	can you recharge {my|mobile} phone with {fifty|amount} rupees
+RechargeIntent	can you recharge {sandeep|mobile} mobile with {fifty|amount}
+RechargeIntent	can you recharge {my|mobile} mobile with {fifty five|amount}
+RechargeIntent	can you recharge {my|mobile} with {twenty five|amount}
+RechargeIntent	can you top-up {my|mobile} mobile with {fifty|amount}
+RechargeIntent	please recharge {my|mobile} phone with {fifty|amount}
+RechargeIntent	top-up {my|mobile} mobile with {fifty|amount}
+RechargeIntent	recharge {my|mobile} phone with {fifty|amount}
+RechargeIntent	top-up {my|mobile} phone with {fifty|amount}
+RechargeIntent	recharge {my|mobile} mobile with {fifty|amount}
+HelpIntent      what can you do for me
+HelpIntent	    what do i need to do

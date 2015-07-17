@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "intent": "RechargeIntent",
+      "slots": [
+        {
+          "name": "mobile",
+          "type": "LITERAL"
+        },
+		{
+          "name": "amount",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": [ ]
+    }
+  ]
+}
